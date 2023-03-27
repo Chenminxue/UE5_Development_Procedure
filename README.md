@@ -20,12 +20,14 @@
 
 ## 绘制地图
 
-1. 创建空白地图并设置为默认地图
+1. 创建空白地图并设置为默认地图：
 
+选择new level创建一个空白地图。
 ![alt text](IMG/Img_5.png)
 
 ![alt text](IMG/Img_6.png)
 
+在content文件夹中创建一个新的文件夹用于存放我们刚刚创建的空白地图。创建完毕后点击保存，这里我们为地图命名并将其保存到我们刚刚创建的地图文件夹当中。
 ![alt text](IMG/Img_7.png)
 
 ![alt text](IMG/Img_8.png)

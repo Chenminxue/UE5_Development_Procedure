@@ -20,9 +20,7 @@
 
 ## 绘制地图
 
-1. 创建空白地图并设置为默认地图：
-
-选择new level创建一个空白地图。
+1. 创建空白地图并设置为默认地图：选择new level创建一个空白地图。
 ![alt text](IMG/Img_5.png)
 
 ![alt text](IMG/Img_6.png)

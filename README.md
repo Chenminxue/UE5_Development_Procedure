@@ -5,4 +5,6 @@
 ![alt text](IMG/Img_1.png)
 3. 更改编辑器为vscode: 在上方editor中找到editor preference并点击，根据下图所示更改编辑器。请注意使用vscode前请安装插件如C/C++，Unreal Engine 4 Snippets等。同时使用visual studio installer安装必须的依赖如.NET。
 ![alt text](IMG/Img_2.png)
-4. 配置VS Code：
+4. Build项目：如下图所示
+![alt text](IMG/Img_3.png)
+![alt text](IMG/Img_4.png)

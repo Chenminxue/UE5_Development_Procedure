@@ -41,4 +41,4 @@
 
 ![alt text](IMG/Img_9.png)
 
-2. 利用材料包绘制地图：<span style="color: green"> 需补充 </span>
+2. 利用材料包绘制地图：$${\color{red}Red}$$

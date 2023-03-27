@@ -29,3 +29,6 @@
 ![alt text](IMG/Img_7.png)
 
 ![alt text](IMG/Img_8.png)
+
+点击project settings并将默认地图设置为我们刚刚创建的空白地图，这样我们就可以在这个空白地图上进行创作了。
+![alt text](IMG/Img_9.png)

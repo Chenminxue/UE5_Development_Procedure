@@ -5,4 +5,4 @@
 ![alt text](IMG/Img_1.png)
 3. 更改编辑器为vscode: 在上方editor中找到editor preference并点击，根据下图所示更改编辑器。
 ![alt text](IMG/Img_2.png)
-4. 配置VS Code：
+4. 配置VS Code：1

@@ -50,3 +50,11 @@
  - 如图取消选中game settings可以得到一致的曝光，这样可以避免亮度会模拟人眼的效果。
  
  ![alt text](IMG/Img_11.png)
+ 
+3. 放置游戏开始位置和主角：
+
+- 如果将character放置到地图中后点击play人物从地面自由落体，说明地面没有设置碰撞，我们需要按照下图双击SM_Floor并开启碰撞。
+
+![alt text](IMG/Img_12.png)
+ 
+![alt text](IMG/Img_13.png)

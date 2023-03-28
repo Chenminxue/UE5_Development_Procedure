@@ -41,4 +41,12 @@
 
 ![alt text](IMG/Img_9.png)
 
-2. 利用材料包绘制地图：$${\color{red}Red}$$
+![alt text](IMG/Img_10.png)
+
+2. 利用材料包绘制地图：
+ 
+ - 可以在左上角将lit改为unlit来获得不受光线干扰的结构。
+ 
+ - 如图取消选中game settings可以得到一致的曝光，这样可以避免亮度会模拟人眼的效果。
+ 
+ ![alt text](IMG/Img_11.png)

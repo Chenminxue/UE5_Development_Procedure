@@ -58,3 +58,7 @@
 ![alt text](IMG/Img_12.png)
  
 ![alt text](IMG/Img_13.png)
+
+4. 创建GameMode：
+
+![alt text](IMG/Img_14.png)

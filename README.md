@@ -61,4 +61,6 @@
 
 4. 创建GameMode：
 
+在GameMode里可以更改例如默认角色等设置。
+
 ![alt text](IMG/Img_14.png)
